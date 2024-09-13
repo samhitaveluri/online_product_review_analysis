@@ -61,7 +61,11 @@ The dataset contains 71044 rows and 25 columns
 ***
 
 # Model Building:
-<br> Building Support Vector Machine (SVM) and SGDClassifier on feature vectors.
- 
-
+<br> Building Support Vector Machine (SVM) and SGDClassifier on feature vectors. 
 *** 
+# Results:
+![alt text](https://github.com/shreyaswankhede/Sentiment-Analysis-on-Online-Product-Reviews/blob/master/s5.PNG
+ "Correlation between features")
+
+***
+
